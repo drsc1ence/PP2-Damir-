@@ -1,1 +1,7 @@
 github repository download.. git clone link to your repository
+git init - initialize local git repository
+git status - status of stage of the files that is located in git repository
+git add {file name} - fisrt stage of pushing a file into the git repository
+git commit -m "comment" - last stage 
+git remote add https://github.com/drsc1ence/PP2-Damir-.git - this can be used only once, in order to connect local repository with global
+git push -u origin main - push changes into global repository
