@@ -9,3 +9,10 @@ git remote set-url origin NEW-LINK - local repository link to new global reposit
 git log - see history of commits
 git restore file name - restore unstaged file
 git restore --staged file name - restore staged file
+
+1. git add main.cpp
+2. git commit -m "Update main.cpp"
+3. git pull origin main
+4. git push origin main
+
+
