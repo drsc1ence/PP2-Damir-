@@ -6,3 +6,6 @@ git commit -m "comment" - last stage
 git remote add https://github.com/drsc1ence/PP2-Damir-.git - this can be used only once, in order to connect local repository with global
 git push -u origin main - push changes into global repository
 git remote set-url origin NEW-LINK - local repository link to new global repository name
+git log - see history of commits
+git restore file name - restore unstaged file
+git restore --staged file name - restore staged file
