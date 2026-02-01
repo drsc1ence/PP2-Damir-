@@ -15,4 +15,8 @@ git restore --staged file name - restore staged file
 3. git pull origin main
 4. git push origin main
 
-
+1. mkdir parent_folder/new_folder
+2. touch parent_folder/new_folder/README.md
+3. git add parent_folder/new_folder
+4. git commit -m "Add new_folder inside parent_folder"
+5. git push
