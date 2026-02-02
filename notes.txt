@@ -10,6 +10,12 @@ git log - see history of commits
 git restore file name - restore unstaged file
 git restore --staged file name - restore staged file
 
+git add . - adds all files in folders 
+mkdir {folder name} - creates a folder
+pwd - checks my position 
+cd {folder name} - enters in the folder
+cd.. - goes back
+
 1. git add main.cpp
 2. git commit -m "Update main.cpp"
 3. git pull origin main
@@ -19,4 +25,4 @@ git restore --staged file name - restore staged file
 2. touch parent_folder/new_folder/README.md
 3. git add parent_folder/new_folder
 4. git commit -m "Add new_folder inside parent_folder"
-5. git push
+5. git push origin main
