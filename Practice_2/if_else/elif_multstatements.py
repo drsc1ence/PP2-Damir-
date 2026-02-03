@@ -1,5 +1,5 @@
 score = 75
-
+# will print the mark based on its percentage
 if score >= 90:
   print("Grade: A")
 elif score >= 80:

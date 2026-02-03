@@ -1,5 +1,5 @@
 day = 3
-
+# will print the day of the week based on its number
 if day == 1:
   print("Monday")
 elif day == 2:
@@ -13,4 +13,4 @@ elif day == 5:
 elif day == 6:
   print("Saturday")
 elif day == 7:
-  print("Sunday")
+  print("Sunday") 
