@@ -15,6 +15,7 @@ mkdir {folder name} - creates a folder
 pwd - checks my position 
 cd {folder name} - enters in the folder
 cd.. - goes back
+New-Item -Path "{folder name}\README.md" -ItemType File - create README.md file
 
 1. git add main.cpp
 2. git commit -m "Update main.cpp"
