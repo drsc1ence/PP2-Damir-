@@ -6,7 +6,7 @@ class Student:
 
 
 s1 = Student("Damir")
-s2 = Student("Ayan")
+s2 = Student("Nurali")
 
 print(s1.university)  # same for everyone
 print(s2.university)
@@ -21,7 +21,7 @@ print(s1.university)
 print(s2.university)
 
 # changing instance variable (only affects one object)
-s1.name = "Dias"
+s1.name = "Sagyn"
 
 print(s1.name)
 print(s2.name)
