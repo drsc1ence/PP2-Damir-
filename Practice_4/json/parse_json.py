@@ -17,4 +17,4 @@ for i in data["imdata"]:
     desc = attr["descr"]
     mtu = attr["mtu"]
     speed = attr["speed"]
-    print(f"{dn:50}{desc:23}{speed:10}{mtu:5}")
+    print(f"{dn:50}{desc:23}{speed:10}{mtu}")
