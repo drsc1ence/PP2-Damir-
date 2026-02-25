@@ -9,6 +9,6 @@ def C2S(CamelCase):
         snake_case = snake_case[1:]
     return snake_case
 
-CamelCase = "ThisIsNuriman"
+CamelCase = "ThisIsDamir"
 
 print(C2S(CamelCase))
