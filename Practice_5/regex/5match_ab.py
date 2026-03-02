@@ -1,4 +1,4 @@
 import re
 
-pattern = re.compile(r'a.*?b\b')
+pattern = re.compile(r'a.*?b')
 print(pattern.findall("asdawdb, dfogergoyea4994b, ab, ppfkgdfgab"))
