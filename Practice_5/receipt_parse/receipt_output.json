@@ -1,0 +1,139 @@
+{
+  "Payment Method": "Банковская карта",
+  "Date": "18.04.2019",
+  "Time": "11:13:58",
+  "Company": "EUROPHARMA Астана",
+  "BIN": "080841000762",
+  "VAT Series": "58002",
+  "Receipt Number": "0014371",
+  "Cash Register": "300-190",
+  "Shift": "10",
+  "Check Number": "2331180266",
+  "Cashier": "Аптека 17-1",
+  "Items": [
+    {
+      "Item Number": 1,
+      "Name": "Натрия хлорид 0,9%, 200 мл, фл",
+      "Quantity": 2.0,
+      "Unit Price": 154.0,
+      "Total": 308.0
+    },
+    {
+      "Item Number": 2,
+      "Name": "Борный спирт 3%, 20 мл, фл.",
+      "Quantity": 1.0,
+      "Unit Price": 51.0,
+      "Total": 51.0
+    },
+    {
+      "Item Number": 3,
+      "Name": "Шприц 2 мл, 3-х комп. (Bioject)",
+      "Quantity": 2.0,
+      "Unit Price": 16.0,
+      "Total": 32.0
+    },
+    {
+      "Item Number": 4,
+      "Name": "Система для инфузии Vogt Medical",
+      "Quantity": 2.0,
+      "Unit Price": 60.0,
+      "Total": 120.0
+    },
+    {
+      "Item Number": 5,
+      "Name": "Шприц 5 мл, 3-х комп.",
+      "Quantity": 1.0,
+      "Unit Price": 310.0,
+      "Total": 310.0
+    },
+    {
+      "Item Number": 6,
+      "Name": "AURA Ватные диски №150",
+      "Quantity": 1.0,
+      "Unit Price": 461.0,
+      "Total": 461.0
+    },
+    {
+      "Item Number": 7,
+      "Name": "Чистая линия скраб мягкий 50 мл",
+      "Quantity": 1.0,
+      "Unit Price": 381.0,
+      "Total": 381.0
+    },
+    {
+      "Item Number": 8,
+      "Name": "Чистая линия скраб очищающийабрикос 50 мл",
+      "Quantity": 1.0,
+      "Unit Price": 386.0,
+      "Total": 386.0
+    },
+    {
+      "Item Number": 9,
+      "Name": "Чистая линия скраб мягкий 50 мл",
+      "Quantity": 1.0,
+      "Unit Price": 381.0,
+      "Total": 381.0
+    },
+    {
+      "Item Number": 10,
+      "Name": "Nivea шампунь 3в1мужской 400 мл",
+      "Quantity": 1.0,
+      "Unit Price": 414.0,
+      "Total": 414.0
+    },
+    {
+      "Item Number": 11,
+      "Name": "Pro Series Шампунь яркий цвет 500мл",
+      "Quantity": 1.0,
+      "Unit Price": 841.0,
+      "Total": 841.0
+    },
+    {
+      "Item Number": 12,
+      "Name": "Pro Series бальзам-ополаскивательдля длител ухода за окрашеннымиволосами Яркий цвет 500мл",
+      "Quantity": 1.0,
+      "Unit Price": 841.0,
+      "Total": 841.0
+    },
+    {
+      "Item Number": 13,
+      "Name": "Clear шампунь Актив спорт 2в1мужской 400 мл 1,000 x 1 200,00 1 200,00 Стоимость 1 200,00 14. Bio World (HYDRO THERAPY)Мицеллярная вода 5в1, 445мл 1,000 x 1 152,00 1 152,00 Стоимость 1 152,00 15. Bio World (HYDRO THERAPY) Гель-муссдля умывания с гиалуроновойкислотой, 250мл 1,000 x 1 152,00 1 152,00 Стоимость 1 152,00 16. [RX]-Натрия хлорид 0,9%, 100 мл, фл.",
+      "Quantity": 1.0,
+      "Unit Price": 168.0,
+      "Total": 168.0
+    },
+    {
+      "Item Number": 17,
+      "Name": "[RX]-Дисоль р-р 400 мл, фл.",
+      "Quantity": 1.0,
+      "Unit Price": 163.0,
+      "Total": 163.0
+    },
+    {
+      "Item Number": 18,
+      "Name": "Тагансорбент с иономи серебра №30,пор. 1,000 x 1 526,00 1 526,00 Стоимость 1 526,00 19. [RX]-Церукал 2%, 2 мл, №10, амп.",
+      "Quantity": 2.0,
+      "Unit Price": 396.0,
+      "Total": 792.0
+    }
+  ],
+  "Total Amount": 0.0,
+  "VAT 12%": 0.0,
+  "Fiscal Sign": "2331180266",
+  "Location": {
+    "City": "Нур-султан",
+    "Street": "Мангилик Ел",
+    "Building": "19"
+  },
+  "Fiscal Data Operator": "АО\"Казахтелеком\"Для проверки чека зайдите на сайт:consumer.oofd.kz",
+  "Verification Site": "consumer.oofd.kz",
+  "INK OFD": "311559",
+  "RNM Code": "620300145311",
+  "ZNM": "SWK00034965",
+  "Summary": {
+    "Total Items": 15,
+    "Total Quantity": 19.0,
+    "Calculated Sum": 5649.0,
+    "Matches Total": false
+  }
+}
