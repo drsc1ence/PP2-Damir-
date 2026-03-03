@@ -11,4 +11,4 @@ def C2S(CamelCase):
 
 CamelCase = "ThisIsDamir"
 
-print(C2S(CamelCase))
+print(C2S(CamelCase))  #_this_is_damir
