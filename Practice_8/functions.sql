@@ -7,3 +7,11 @@ BEGIN
                     OR r.phone_number ILIKE '%' || p || '%';
 END;
 $$ LANGUAGE plpgsql;
+
+CREATE OR REPLACE FUNCTION get_paginated(lim INT, offs INT)
+RETURNS TABLE(first_name VARCHAR, last_name VARCHAR, phone_number VARCHAR) AS $$
+BEGIN 
+    RETURN QUERY SELECT r.first_name, r.last_name, r.phone_number FROM residence r
+                    LIMIT lim OFFSET offs;
+END;
+$$ LANGUAGE plpgsql;
