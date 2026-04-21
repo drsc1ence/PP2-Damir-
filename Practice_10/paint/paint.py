@@ -39,7 +39,7 @@ def draw_menu():
     eraser_btn = pygame.draw.rect(screen, BLACK, (130, 10, 50, 50), 2)
 
     pygame.draw.circle(screen, BLACK, (35, 35), 15, 2)
-    pygame.draw.rect(screen, BLACK, (85, 20, 30, 30), 2)
+    pygame.draw.rect(screen, BLACK, (80, 20, 30, 30), 2)
     pygame.draw.rect(screen, WHITE, (140, 20, 30, 30))
 
     color_rects = []
