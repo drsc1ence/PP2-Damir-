@@ -1,0 +1,58 @@
+[
+    {
+        "first_name": "Kirill",
+        "last_name": "Johnson",
+        "email": "kjohnson@gmail.com",
+        "birthday": "2004-06-25",
+        "group": "friends",
+        "phones": [
+            {
+                "number": "87074781234",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Damir",
+        "last_name": "Beisenbek",
+        "email": "damirbeisenbek07@gmail.com",
+        "birthday": "2007-07-03",
+        "group": "family",
+        "phones": [
+            {
+                "number": "87079405575",
+                "type": "home"
+            },
+            {
+                "number": "87079405575",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Sergey",
+        "last_name": "Trusov",
+        "email": "s_trus76@kbtu.kz",
+        "birthday": "1976-05-17",
+        "group": "friends",
+        "phones": [
+            {
+                "number": "87763657897",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "first_name": "Aidar",
+        "last_name": "Shakerimov",
+        "email": "aidar99@gmail.com",
+        "birthday": "1999-04-14",
+        "group": "friends",
+        "phones": [
+            {
+                "number": "87762905419",
+                "type": "work"
+            }
+        ]
+    }
+]

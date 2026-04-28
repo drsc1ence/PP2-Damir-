@@ -1,0 +1,1 @@
+SELECT * FROM sort_contacts('email'); 

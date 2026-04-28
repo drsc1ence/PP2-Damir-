@@ -1,0 +1,1 @@
+SELECT * FROM filter_by_group('friends');

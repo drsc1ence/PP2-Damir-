@@ -1,0 +1,1 @@
+SELECT * FROM get_email_by_pattern('gmail');
